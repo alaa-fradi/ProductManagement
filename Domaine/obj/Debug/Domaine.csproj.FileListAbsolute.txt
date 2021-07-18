@@ -1,0 +1,12 @@
+D:\c# workplace\GestionProduits\Domaine\bin\Debug\Domaine.dll
+D:\c# workplace\GestionProduits\Domaine\bin\Debug\Domaine.pdb
+D:\c# workplace\GestionProduits\Domaine\obj\Debug\Domaine.csproj.CoreCompileInputs.cache
+D:\c# workplace\GestionProduits\Domaine\obj\Debug\Domaine.dll
+D:\c# workplace\GestionProduits\Domaine\obj\Debug\Domaine.pdb
+D:\c# workplace\GestionProduits\Domaine\bin\Debug\Domaine.dll.config
+D:\c# workplace\GestionProduits\Domaine\bin\Debug\EntityFramework.dll
+D:\c# workplace\GestionProduits\Domaine\bin\Debug\EntityFramework.SqlServer.dll
+D:\c# workplace\GestionProduits\Domaine\bin\Debug\EntityFramework.xml
+D:\c# workplace\GestionProduits\Domaine\bin\Debug\EntityFramework.SqlServer.xml
+D:\c# workplace\GestionProduits\Domaine\obj\Debug\Domaine.csproj.CopyComplete
+D:\c# workplace\GestionProduits\Domaine\obj\Debug\Domaine.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>
+                <div>
+                    UserName : @Html.TextBox("userName")
+                    Password : @Html.TextBox("password")
+                </div>
+            </td>
+            <td> <input type="submit" value="Connect" id="submit" /> </td>
+        </tr>
+    </table>
+}
